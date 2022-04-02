@@ -5,4 +5,7 @@ package peaksoft.myprojekt;
  * Date: 2/4/22
  */
 public class JomaHi {
+    public static void main(String[] args) {
+        System.out.println("Devdegi info");
+    }
 }
